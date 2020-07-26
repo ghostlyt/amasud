@@ -1,0 +1,39 @@
+.mid{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    overflow: auto;
+
+}
+
+.rectangle{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+
+    height: 500px;
+    line-height: 500px;
+    width: 650px;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+.about-me{
+    background-color: salmon;
+}
+
+.projects{
+    background-color: #88d177;
+}
+
+.collections{
+    background-color: #fdf980;
+}
+
+.professions{
+    background-color: #4d89c9;
+}
